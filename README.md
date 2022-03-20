@@ -28,8 +28,6 @@ remove:()=>{}
 ```
 Wotan.hint = ''
 Wotan.log = ''
-await Wotan.logging();
+await Wotan.next();
 Wotan.img = ''
-
-
 ```
