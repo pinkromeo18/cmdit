@@ -22,3 +22,14 @@ remove:()=>{}
 
 
 ```
+
+
+
+```
+Wotan.hint = ''
+Wotan.log = ''
+await Wotan.logging();
+Wotan.img = ''
+
+
+```
